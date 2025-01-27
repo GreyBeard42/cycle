@@ -46,7 +46,7 @@ function draw() {
 class Bike {
     constructor() {
         this.wheel = 0
-        this.v = 200
+        this.v = 400
     }
     draw() {
         //wheels
