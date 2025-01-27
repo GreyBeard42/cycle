@@ -56,7 +56,7 @@ class Bike {
         this.w2 = min(noise(0, p+(width/5+width/10)/w/(2000/w))*height*0.8+height/3, height*0.9)-width/40
         ellipse(width/5+width/10, this.w2, width/20)
 
-        this.v += (this.w1-this.w2)/4
+        this.v += (this.w1-this.w2)/4.5
 
         //frame
         push()
