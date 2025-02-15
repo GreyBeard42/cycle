@@ -3,7 +3,7 @@ let music
 var canSound = false
 
 function preload() {
-    music = loadSound("cycle.mp3")
+    music = loadSound("javascript/cycle/cycle.mp3")
 }
 
 function setup() {
