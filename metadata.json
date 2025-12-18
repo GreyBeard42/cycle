@@ -1,0 +1,15 @@
+{
+  "title": "Cycle",
+  "desc": "Ride a digital bike on a digital landscape to digital music.",
+
+  "status": "archived",
+  "version": "v1",
+
+  "date": "1/3/2025",
+
+  "tags": [
+    "javascript",
+    "p5.js",
+    "tinker"
+  ]
+}
